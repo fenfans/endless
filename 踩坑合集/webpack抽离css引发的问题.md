@@ -1,9 +1,10 @@
-[TOC]
 ## 目录
-[1.webpack单独抽离css](#1.webpack单独抽离css)
-[2.resolve中使用了错误的extensions属性](#2.resolve中使用了错误的extensions属性)
-[3.webpack-dev-server使用了非安全的6666端口](#3.webpack-dev-server使用了非安全的6666端口)
-**起源**：  
+[1.webpack单独抽离css](#1.webpack单独抽离css)  
+[2.resolve中使用了错误的extensions属性](#2.resolve中使用了错误的extensions属性)  
+[3.webpack-dev-server使用了非安全的6666端口](#3.webpack-dev-server使用了非安全的6666端口)   
+
+---
+## 起源  
 想要在webpack4中单独抽离出css
 
 ## 1.webpack单独抽离css
